@@ -339,7 +339,7 @@ int main()
             
         }
 }
-    printf("\n\t Bu oyun K.S.Ü. öğrencileri AYŞE ELİF ÖZTÜRK ve ÖMER CEVHER tarafından yapılmıştır.\n\n Adı-Soyadı         NUMARASI\n\n AYŞE ELİF ÖZTÜRK : 21110131019 \n\n ÖMER CEVHER      : 21110131002\n\n");
+    printf("\n\t CREATOR: ÖMER CEVHER \n\n");
     
 }
 
